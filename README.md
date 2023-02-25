@@ -1,1 +1,3 @@
-Hello Novogeltikovo!
+## Hello Novogeltikovo!
+
+У нас сегодня снежно, но тепло
